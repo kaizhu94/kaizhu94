@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Kaihua Zhu and I am full-stack software engineer. I am a Bachelor in Computer Science of West Virginia University and a recent graduate from App Addcamy. I'm passionate about problem-solving, debugging, and writing clean, semantic code. I am always looking for more opportunities to delve into new languages, frameworks, or mathematical concepts.👋
 
 <!--
 **kaizhu94/kaizhu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
