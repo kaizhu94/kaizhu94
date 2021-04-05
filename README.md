@@ -3,7 +3,7 @@
 ### I’m currently seeking a full stack software engineering role where I can utilize my coding skills in impactful and meaningful ways as well as grow as a developer.
 
 * Checkout out my [Portfolio](https://kaizhu94.github.io/).
-* Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/kaihua-zhu-177a041b1/) or email me at [zhukai0803@gmail.com](zhukai0803@gmail.com).
+* Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/kaihua-zhu-177a041b1/) or email me at <a href="mailto:zhukai0803@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>.
 
 <!--
 **kaizhu94/kaizhu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
