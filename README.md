@@ -7,7 +7,7 @@
 * 🔭 I'm currently working on a website called Protect Our Elders that will allow volunteers to signup to chaperone the elderly to keep them safe while outdoors
 * 💬 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/kaihua-zhu-177a041b1/) or email me at <a href="mailto:zhukai0803@gmail.com?">zhukai0803@gmail.com</a>. 
     
-<!--
+<!-- 
 **kaizhu94/kaizhu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
