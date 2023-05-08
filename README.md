@@ -4,7 +4,7 @@
 
 * 😄 Checkout out my [Portfolio](https://kaizhu94.github.io/).
 * 🌱 I’m currently learning Typyscript with React by using ChatGPT as an amazing tool.
-* 💬 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/kaihua-zhu-177a041b1/) or email me at <a href="mailto:zhukai0803@gmail.com?">zhukai0803@gmail.com</a>. 
+* 💬 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/kaihua-zhu-177a041b1/) or email me at <a href="mailto:zhukai0803@gmail.com?">zhukai0803@gmail.com</a>.   
     
 <!-- 
 **kaizhu94/kaizhu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
