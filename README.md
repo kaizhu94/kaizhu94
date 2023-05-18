@@ -2,7 +2,7 @@
             
 ### I’m currently seeking a full stack software engineering role where I can utilize my coding skills in impactful and meaningful ways as well as grow as a developer.
 
-* 😄 Checkout out my [Portfolio](https://kaizhu94.github.io/).
+* 😄 Checkout out my [Portfolio](https://kaizhu94.github.io/).  
 * 🌱 I’m currently learning Typyscript with React by using ChatGPT as an amazing tool.
 * 💬 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/kaihua-zhu-177a041b1/) or email me at <a href="mailto:zhukai0803@gmail.com?">zhukai0803@gmail.com</a>.   
     
