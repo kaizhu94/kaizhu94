@@ -3,7 +3,7 @@
 ### I’m seeking a full-stack software engineering role where I can use my coding skills in impactful and meaningful ways and grow as a developer.
 
 * 😄 Checkout out my [Portfolio](https://kaizhu94.github.io/).  
-* 🌱 I’m currently leveling up my skills by exploring more career paths on ZTM(Zero To Master) platform.
+* 🌱 I’m leveling up my skills by exploring more career paths on the ZTM(Zero To Master) platform.
 * 💬 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/kaihua-zhu-177a041b1/) or email me at <a href="mailto:zhukai0803@gmail.com?">zhukai0803@gmail.com</a>.   
     
 <!-- 
