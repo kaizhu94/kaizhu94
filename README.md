@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 ### Hi, my name is Kaihua Zhu, and I am a full-stack software engineer. I am a Bachelor's in Computer Science from West Virginia University and a recent graduate from App Academy. I'm passionate about problem-solving, debugging, and writing clean, semantic code. I am always looking for more opportunities to delve into new languages, frameworks, or mathematical concepts.👋                  
 
 ### I’m seeking a full-stack software engineering role where I can use my coding skills in impactful and meaningful ways and grow as a developer.
@@ -10,13 +7,10 @@
 * 💬 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/kaihua-zhu-177a041b1/) or email me at <a href="mailto:zhukai0803@gmail.com?">zhukai0803@gmail.com</a>.   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaizhu94&show_icons=true&theme=merko)             
-<be></br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizhu94&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=kaizhu94&show_icons=true&theme=merko" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizhu94&layout=donut" />
-</div>
+
 
 <!-- 
 **kaizhu94/kaizhu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
