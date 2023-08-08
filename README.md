@@ -10,6 +10,10 @@
 <be></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizhu94&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=kaizhu94&show_icons=true&theme=merko" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizhu94&layout=donut" />
+</div>
 
 <!-- 
 **kaizhu94/kaizhu94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
