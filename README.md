@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ### Hi, my name is Kaihua Zhu, and I am a full-stack software engineer. I am a Bachelor's in Computer Science from West Virginia University and a recent graduate from App Academy. I'm passionate about problem-solving, debugging, and writing clean, semantic code. I am always looking for more opportunities to delve into new languages, frameworks, or mathematical concepts.👋                  
 
 ### I’m seeking a full-stack software engineering role where I can use my coding skills in impactful and meaningful ways and grow as a developer.
