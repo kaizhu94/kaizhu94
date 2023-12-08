@@ -1,6 +1,6 @@
 ### Hi, my name is Kaihua Zhu, and I am a full-stack software engineer. I am a Bachelor's in Computer Science from West Virginia University and a recent graduate from App Academy. I'm passionate about problem-solving, debugging, and writing clean, semantic code. I always seek opportunities to delve into new languages, frameworks, or mathematical concepts.👋                                      
   
-### I’m seeking a full-stack software engineering role where I can use my coding skills in impactful and meaningful ways and grow as a developer.     
+### I’m seeking a full-stack software engineering role where I can use my coding skills in impactful and meaningful ways and grow as a developer.       
 
 * 😄 Checkout out my [Portfolio](https://kaizhu94.github.io/).  
 * 🌱 I’m leveling up my skills by exploring more career paths on the ZTM(Zero To Master) platform, and my main focus now is the Astro framework.
